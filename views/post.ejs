@@ -1,0 +1,32 @@
+<%- include("./partials/header.ejs") %>
+
+<main>
+    <h2 class="page-title">Share Your Favourite Game!</h2>
+    <div class="post-creation">
+        <form action="./post" method="POST">
+            <div class="form-group">
+                <label for="title">Game Title</label><br>
+                <input class="form" type="text" id="title" name="title" required>
+            </div>
+            <div class="form-group">
+                <label for="genre">Genre</label><br>
+                <input class="form" type="text" id="genre" name="genre" required>
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label><br>
+                <textarea class="form" type="text" id="description" name="description" maxlength="150" required></textarea><br>
+            </div>
+                <div class="form-group">
+                <label for="review">Your Review</label><br>
+                <textarea class="form" type="text" name="review" required></textarea>
+            </div>
+            
+            <div class="form-buttons">
+                <input class="body-btn red-btn form-btn" type="reset" id="reset">
+                <input class="body-btn form-btn" type="submit" id="submit" value="Create Post">         
+            </div>
+        </form>
+    </div>
+</main>
+
+<%- include("./partials/footer.ejs") %>

@@ -1,0 +1,13 @@
+<%- include("./partials/header.ejs") %>
+
+<main>
+    <div class="post">
+        <h2 class="page-title"><%= post.title %></h2>
+        <div class="post-genre">Genre: <%= post.genre %></div>
+        <div class="post-date"><%= post.createdAt %></div>
+        <div class="post-description"><%= post.description %></div>
+        <div class="post-review"><%= post.review %></div>
+    </div>  
+</main>
+
+<%- include("./partials/footer.ejs") %>

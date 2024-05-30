@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Red Dead Redemption II",
+    "genre": "Western",
+    "createdAt": "05/25/2024",
+    "description": "After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee.",
+    "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "urlFriendlyTitle": "red-dead-redemption-ii"
+  },
+  {
+    "title": "Little Nightmares",
+    "genre": "Indie Horror",
+    "createdAt": "04/26/2024",
+    "description": "A dark whimsical tale that will confront you with your childhood fears! Help Six escape a vast, mysterious vessel inhabited by corrupted souls.",
+    "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "urlFriendlyTitle": "little-nightmares"
+  },
+  {
+    "title": "Elden Ring",
+    "genre": "Souls-like",
+    "createdAt": "04/12/2024",
+    "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "urlFriendlyTitle": "elden-ring"
+  }
+  
+]
